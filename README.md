@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Arjunpolen
-- 👀 I’m interested in everything thats making impact on tech out there.
-- 🌱 I’m currently learning dsa/react
-- 💞️ lemme know if you are starting with apidev
+- 👀 hobbyist devloper and tinkerer.
+- 🌱 I’m currently learning js
 - 📫 arjunpolenwar@gmail.com
 - 😄 he/him
 - ⚡ 
